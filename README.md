@@ -29,5 +29,5 @@ Welcome to the Job Seeking App UI! This project contains a modern and user-frien
 ## Screen Shots
 
   
-| ![home](https://raw.githubusercontent.com/priyesh-techabbot/job_seeking_ui/refs/heads/main/home.png) | ![landing](https://raw.githubusercontent.com/priyesh-techabbot/job_seeking_ui/refs/heads/main/landing.png) |![search](https://raw.githubusercontent.com/priyesh-techabbot/job_seeking_ui/refs/heads/main/search.png))|
+| ![home](https://raw.githubusercontent.com/priyesh-techabbot/job_seeking_ui/refs/heads/main/home.png) | ![landing](https://raw.githubusercontent.com/priyesh-techabbot/job_seeking_ui/refs/heads/main/landing.png) |![search](https://raw.githubusercontent.com/priyesh-techabbot/job_seeking_ui/refs/heads/main/search.png)|
 |--|--|--|
